@@ -1,2 +1,2 @@
-# student_hotel1
-simple student hotel web application.
+# student_portal
+simple student portal web application.
